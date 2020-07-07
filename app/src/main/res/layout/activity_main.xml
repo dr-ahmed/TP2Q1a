@@ -47,21 +47,21 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nom"
+            android:hint="Nom"
             android:textColor="#000"
             android:textSize="18dp" />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Prénom"
+            android:hint="Prénom"
             android:textColor="#000"
             android:textSize="18dp" />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Adresse"
+            android:hint="Adresse"
             android:textColor="#000"
             android:textSize="18dp" />
 
