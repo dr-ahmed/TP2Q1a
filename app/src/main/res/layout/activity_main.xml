@@ -49,21 +49,21 @@
             android:layout_height="wrap_content"
             android:hint="Nom"
             android:textColor="#000"
-            android:textSize="18dp" />
+            android:textSize="18sp" />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Prénom"
             android:textColor="#000"
-            android:textSize="18dp" />
+            android:textSize="18sp" />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Adresse"
             android:textColor="#000"
-            android:textSize="18dp" />
+            android:textSize="18sp" />
 
     </LinearLayout>
 
@@ -85,21 +85,21 @@
                 android:layout_height="wrap_content"
                 android:text="Licence"
                 android:textColor="#000"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <CheckBox
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Master"
                 android:textColor="#000"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <CheckBox
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Doctorat"
                 android:textColor="#000"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
         </LinearLayout>
 
@@ -123,7 +123,7 @@
                 android:gravity="center"
                 android:text="Résultat"
                 android:textColor="#000"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
         </LinearLayout>
 
