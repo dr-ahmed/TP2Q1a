@@ -14,32 +14,32 @@
         android:layout_gravity="center"
         android:src="@drawable/profile" />
 
-    <LinearLayout
+    <RadioGroup
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="end"
         android:orientation="horizontal"
         android:padding="10dp">
 
-        <Button
+        <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Ajouter"
             android:textAllCaps="false" />
 
-        <Button
+        <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Modifier"
             android:textAllCaps="false" />
 
-        <Button
+        <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Supprimer"
             android:textAllCaps="false" />
 
-    </LinearLayout>
+    </RadioGroup>
 
     <EditText
         android:layout_width="match_parent"
